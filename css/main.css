@@ -586,12 +586,14 @@ a.slider-video-btn:hover {
   position: absolute;
   top: 49%;
   left: -13%;
+  width: 200px;
 }
 
 .app-shape-02 {
   position: absolute;
   bottom: 52%;
   right: -48%;
+  width: 200px;
 }
 
 .slider-img-3 img {
